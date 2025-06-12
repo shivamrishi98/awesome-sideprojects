@@ -60,7 +60,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [Video Summarizer](https://summarizevideo.ai) - Video summarizer service
 - [KeyStrokes](https://www.keystrok.es) - Automated Typing for Video Tutorials
 - [Follow Monday](https://followmonday.com) - Discover active individuals on socials
-
+- [10AppDeals](https://10appdeals.com) - 10 handpicked app deals every day.
 ---
 
 ## 🧙‍♂️ Contributing
